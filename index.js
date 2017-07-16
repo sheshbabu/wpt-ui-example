@@ -5,7 +5,7 @@ wptui.init({
   k: process.env.WEBPAGETEST_KEY,
   location: "ec2-ap-southeast-1:Chrome.Cable",
   runs: 5,
-  port: 80
+  port: process.env.PORT
 });
 
 wptui.start();
