@@ -1,0 +1,19 @@
+{
+  "name": "wpt-ui-example",
+  "version": "1.0.0",
+  "description": "Example for wpt-ui repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheshbabu/wpt-ui-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sheshbabu/wpt-ui-example/issues"
+  },
+  "homepage": "https://github.com/sheshbabu/wpt-ui-example#readme"
+}
