@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sheshbabu/wpt-ui-example/issues"
   },
-  "homepage": "https://github.com/sheshbabu/wpt-ui-example#readme"
+  "homepage": "https://github.com/sheshbabu/wpt-ui-example#readme",
+  "engines": {
+    "node": "8.1.2"
+  }
 }
