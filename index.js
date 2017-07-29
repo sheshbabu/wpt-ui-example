@@ -1,4 +1,7 @@
 const wptui = require("wpt-ui");
+const dotenv = require("dotenv");
+
+dotenv.load();
 
 wptui.start({
   wptUrl: process.env.WEBPAGETEST_URL,
