@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "dotenv": "^4.0.0",
-    "wpt-ui": "git+https://github.com/sheshbabu/wpt-ui.git#feature/merge-server-and-client-dirs"
+    "wpt-ui": "git+https://github.com/sheshbabu/wpt-ui.git"
   },
   "repository": {
     "type": "git",
